@@ -23,7 +23,7 @@ const Pokemon = (props) => {
           <div className="pokemon-type">
             {pokemon.types.map((type, index) => {
               return (
-                <div key={index} className="pokemon-type-text">{type.type.name}</div>
+                <div key={index} className={type.type.name}>{type.type.name}</div>
               )
             })}
           </div>
