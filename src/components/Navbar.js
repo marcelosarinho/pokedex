@@ -15,6 +15,9 @@ const Navbar = () => {
       <div className="fav-text">
         Favoritos: {favoritePokemons.length} ❤️
       </div>
+      <div className="pokeapi-anchor">
+        <a href="https://pokeapi.co/">PokeAPI</a>
+      </div>
     </nav>
   )
 }
