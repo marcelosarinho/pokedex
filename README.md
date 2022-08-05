@@ -22,17 +22,17 @@
   </h3>
 </div>
 <h2 id="sobre">📖 Sobre</h2>
-<p>Esse repositório é um site que serve como uma Pokédex, uma espécie de enciclopédia dos Pokémons, informando seus tipos, nomes e IDs. O projeto foi criado como uma forma de praticar HTML, CSS, JavaScript e React.</p>
+<p>Esse repositório é um site que serve como uma Pokédex, uma espécie de enciclopédia dos Pokémons, informando seus tipos, nomes e IDs. O projeto foi criado como uma forma de praticar HTML, CSS, JavaScript e React. Realizado através de um vídeo do canal pasquadev, no Youtube.</p>
 <h2 id="pre-requisitos">📋 Pré-Requisitos</h2>
 <p>Para testar essa aplicação, é necessário <a href="https://git-scm.com/">Git</a> e <a href="https://www.npmjs.com/">npm</a> (ou <a href="https://yarnpkg.com/">Yarn</a>).</p>
 <p>Caso queira testar o projeto na sua máquina, siga esses passos:</p>
 
 ```bash
 # Clone o repositório
-$ git clone <https://github.com/marcelosarinho/portfolio>
+$ git clone <https://github.com/marcelosarinho/pokedex>
 
 # Acesse a pasta do projeto clonado
-$ cd portfolio
+$ cd pokedex
 
 # Instale as dependências necessárias para o projeto
 $ npm install
